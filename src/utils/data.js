@@ -98,7 +98,7 @@ export const resourcesLinks = [
     {
         id: 3,
         title: "Subscribe",
-        link: "https://www.linkedin.com/in/premkumar-r-124720161/",
+        link: "https://www.youtube.com/@premk97",
     },
 ];
 export const socialMedia = [
@@ -106,7 +106,7 @@ export const socialMedia = [
         id: 1,
         title: "Instagram",
         icon: <FaInstagram className="text-2xl hover:text-primary" />,
-        link: "/#ebooks",
+        link: "https://www.instagram.com/pk_premkumar97?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
     },
     {
         id: 2,
